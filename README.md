@@ -28,7 +28,7 @@ src/styles/GlobalStyles.js에 global style을 작성하고 src/index.js에서 �
  - 다른 그래프 들도 필터의 값을 받아와 경우에 따라 다른 data를 Chart에 넣어준다.
 
 # 실행 가이드
-git clone https://github.com/Qndtl/Patient.git
-cd Patient
-npm install
-npm run dev
+ - git clone https://github.com/Qndtl/Patient.git
+ - cd Patient
+ - npm install
+ - npm run dev
